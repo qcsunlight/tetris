@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bg.jpg</file>
+        <file>images/icon.png</file>
+        <file>images/1.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/3.jpg</file>
+        <file>images/4.jpg</file>
+        <file>images/quit.png</file>
+        <file>images/login.jpg</file>
+        <file>images/loginback.jpg</file>
+        <file>sounds/catch.wav</file>
+        <file>images/cancelbtn.jpg</file>
+        <file>images/name.jpg</file>
+        <file>images/okbtn.jpg</file>
+        <file>images/mainback.jpg</file>
+        <file>images/登录.png</file>
+        <file>images/端口.png</file>
+        <file>images/返回.png</file>
+        <file>images/昵称.png</file>
+        <file>images/主机.png</file>
+    </qresource>
+    <qresource prefix="/blocks">
+        <file>images/blocks/1.jpg</file>
+        <file>images/blocks/2.jpg</file>
+        <file>images/blocks/3.jpg</file>
+        <file>images/blocks/4.jpg</file>
+        <file>images/blocks/5.jpg</file>
+        <file>images/blocks/6.jpg</file>
+        <file>images/blocks/7.jpg</file>
+    </qresource>
+</RCC>
